@@ -1,68 +1,48 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+:mask::mask::mask::mask::mask::mask::mask::mask::mask::mask::mask::mask::mask::mask:
+ **:mask:미세먼지와 함께하는 가래찬 하루!!!:mask:**
+:mask::mask::mask::mask::mask::mask::mask::mask::mask::mask::mask::mask::mask::mask:
+#### 이 프로젝트는 미세먼지를 미세먼지답게 경고하기 위함이다.
 
-## Available Scripts
+  
 
-In the project directory, you can run:
+:shit: 우리는 하루의 대부분을 미세먼지와 살고 있다.
 
-### `npm start`
+:mask: 아직도 거리엔 마스크를 착용하지 않고 다니는 사람들이 많다.
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+:tired_face: 나는 나와 더불어 그들의 건강을 걱정한다.(오지랍)
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+:mask: 잽알 마스크 써라! 마스크때문에 숨쉬기 어렵다면 등급이 낮은 마스크라도 써라.
 
-### `npm test`
+:baby: 귀여운 아기를 무방비로 거리에 댈꼬 나오지 마라.
+(미래 세대인 그들에게 미세먼지 패널티가 이미 적용되고 있다.:bomb:)
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+:speak_no_evil: 입만 가릴꺼면 쓰지말자 무식함을 드러내지 마라. 코와 입이 밀봉? 되야 마스크 효과가 있다.
 
-### `npm run build`
+:nail_care: 화장이 지워지는게 건강보다 우선인가? 간지가 건강보다 우선인가?
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+:skull: 멀쩡해 보이는 사람이 병결려 죽는것엔 다 이유가 있는거다.
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+:scream: 이시대 사람들은 적어도 호흡기 질환이나 암에 걸릴 가능성이 너무나 크다.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+:eyes: 미세먼지는 눈에 딱 보이는게 아니다 니눈에 안보인다고 미세먼지가 없는게 아니다.
 
-### `npm run eject`
+:bow: 네 폐로 미세먼지 저감에 기여 하겠다면 말리지 않겠다.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+---
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+:phone: 미세먼지 저감을 지자체에 요구하라.
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+:clipboard: 미세먼지 저감을 관련 부서에 요구하라.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+:office: 미세먼지 저감을 기업에 요구하라.
 
-## Learn More
+:kr: 미세먼지 저감을 정부에 요구하라.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+:cn: 미세먼지 저감을 인근 국가에 요구하라.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+:globe_with_meridians: 미세먼지 저감을 전세계에 요구하라.
 
-### Code Splitting
+:chart_with_upwards_trend:  미세먼지의 출처에 대해서 따지지 마라 모든 인간생활 전반에 걸쳐 생산된다.(고등어, 삼겹살?)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+:dog: :pig: 변하지 않을꺼면 도태되던가 책임을 남에게 미루지 마라.  
 
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
