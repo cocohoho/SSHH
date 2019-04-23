@@ -1,8 +1,8 @@
-:mask::mask::mask::mask::mask::mask::mask::mask::mask::mask::mask::mask::mask::mask:
+:mask::mask::mask::mask::mask::mask::mask::mask::mask::mask::mask::mask:
 
  **:mask:미세먼지와 함께하는 가래찬 하루!!!:mask:**
- 
-:mask::mask::mask::mask::mask::mask::mask::mask::mask::mask::mask::mask::mask::mask:
+
+:mask::mask::mask::mask::mask::mask::mask::mask::mask::mask::mask::mask:
 #### 이 프로젝트는 미세먼지를 미세먼지답게 경고하기 위함이다.
 
   
