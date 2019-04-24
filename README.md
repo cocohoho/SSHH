@@ -48,3 +48,9 @@
 
 :dog: :pig: 변하지 않을꺼면 도태되던가 책임을 남에게 미루지 마라.  
 
+
+:mask::mask::mask::mask::mask::mask::mask::mask::mask::mask::mask::mask:
+
+ **:mask:미세먼지와 함께하는 가래찬 하루!!!:mask:**
+
+:mask::mask::mask::mask::mask::mask::mask::mask::mask::mask::mask::mask:
